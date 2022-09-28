@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kunal/static/css/main.b0b99bc6.css",
+    "main.js": "/Kunal/static/js/main.b67d39b8.js",
+    "static/media/HawkLogo.png": "/Kunal/static/media/HawkLogo.1ef70946ebb773f4e0d3.png",
+    "index.html": "/Kunal/index.html",
+    "main.b0b99bc6.css.map": "/Kunal/static/css/main.b0b99bc6.css.map",
+    "main.b67d39b8.js.map": "/Kunal/static/js/main.b67d39b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b99bc6.css",
+    "static/js/main.b67d39b8.js"
+  ]
+}
